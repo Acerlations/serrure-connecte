@@ -16,8 +16,8 @@
 
 
 ## Réalisé par
-- BERTHO Alexandre @github/Acerlations
-* HERRAT Ayoub @github/ayoub-he
+- BERTHO Alexandre
+* HERRAT Ayoub
 ## Encadrants :
 - Fabien Ferrero
 * Jerome Lanteri
