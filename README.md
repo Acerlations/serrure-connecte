@@ -22,19 +22,15 @@ dans le cas où un des deux éléments ne coïncide pas avec le database un mess
 
 ## Matériel utilisé
 
-* Carte NFC programmable
+* Carte NFC
 * Servo-moteur
 * Batterie pour alimenter la carte et le servo-moteur
 * Pièces du verrou imprimées en 3D
 * Application servant d'interface
 
-
-
-
-
 ## Réalisé par
 - BERTHO Alexandre
 * HERRAT Ayoub
 ## Encadrants :
-- Fabien Ferrero
-* Jerome Lanteri
+- FERRERO Fabien
+* LANTERI Jerome
