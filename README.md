@@ -28,6 +28,12 @@ dans le cas où un des deux éléments ne coïncide pas avec le database un mess
 * Pièces du verrou imprimées en 3D
 * Application servant d'interface
 
+## Technologie/IDE utilisé
+
+* Android Studio projet sous Android 13
+* Arduino
+* UCA Card
+
 ## Réalisé par
 - BERTHO Alexandre
 * HERRAT Ayoub
